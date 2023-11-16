@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Features</title>
+
+  <!-- icofont-css-link -->
+  <link rel="stylesheet" href="css/icofont.min.css">
+  <!-- Owl-Carosal-Style-link -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <!-- Bootstrap-Style-link -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <!-- Aos-Style-link -->
+  <link rel="stylesheet" href="css/aos.css">
+  <!-- Coustome-Style-link -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Responsive-Style-link -->
+  <link rel="stylesheet" href="css/responsive.css">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="images/smallLogo.png" type="image/x-icon">
+
+</head>
+
+<body>
+
+  <!-- Page-wrapper-Start -->
+  <div class="page_wrapper">
+
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="loader"></div>
+    </div>
+
+    <!-- Header Start -->
+    <header class="white_header">
+      <!-- container start -->
+      <div class="container">
+        <!-- navigation bar -->
+        <nav class="navbar navbar-expand-lg">
+           <a class="navbar-brand" href="/">
+            <img src="images/logo_with_bg.png " alt="image">
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+              <!-- <i class="icofont-navigation-menu ico_menu"></i> -->
+              <div class="toggle-wrap">
+                <span class="toggle-bar"></span>
+              </div>
+            </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="features">Features</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="clients">Our clients</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="pricing">Pricing</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="help">Help</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link dark_btn" href="freeTrail">GET STARTED</a>
+              </li>
+              <!-- secondery menu end -->
+
+              
+
+              <!-- secondery menu start -->
+              <!-- <li class="nav-item has_dropdown">
+                <a class="nav-link" href="#">Blog</a>
+                <span class="drp_btn"><i class="icofont-rounded-down"></i></span>
+                <div class="sub_menu">
+                  <ul>
+                    <li><a href="blog-list.html">Blog List</a></li>
+                    <li><a href="blog-single.html">Blog Single</a></li>
+                  </ul>
+                </div>
+              </li> -->
+              <!-- secondery menu end -->
+              
+             
+            </ul>
+          </div>
+        </nav>
+        <!-- navigation end -->
+      </div>
+      <!-- container end -->
+    </header>
+
+
+    <!-- BredCrumb-Section -->
+    <div class="bred_crumb">
+      <div class="container">
+        <!-- shape animation  -->
+        <span class="banner_shape1"> <img src="images/banner-shape1.png" alt="image" > </span>
+        <span class="banner_shape2"> <img src="images/banner-shape2.png" alt="image" > </span>
+        <span class="banner_shape3"> <img src="images/banner-shape3.png" alt="image" > </span>
+        
+        <div class="bred_text">
+          <h1>Unleash the power of Busyness App</h1>
+          <p>Welcome to a new era of efficiency, growth, and success. Elevate your business with Busyness.app and experience the transformation today!</p>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><span>»</span></li>
+            <li><a href="features">Features</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>  
+    <div class="custom-centered-content">
+      <div class="custom-col-lg-6 custom-col-md-12" data-aos="fade-in" data-aos-duration="1500">
+        <div class="custom-banner_slider">
+          <div class="custom-icons-with-description">
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                  <img src="images/features/whiteLabel.png" alt="Icon 1">
+                </div>
+                <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                  <span class="feature-name"><strong>White-Label App & Website</strong></span>
+                  <div class="description-content">
+                    Your Own eCommerce Application, branded with your own Logo,Theme and Colors, ensuring a great customer experience.
+                  </div>
+                </div>
+              </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Real-time tracking and monitoring.png" alt="Icon 2">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Real-time tracking and monitoring</strong></span>
+                  <div class="description-content">
+                    Stay on top of delivery and employee performance with real-time location and employee tracking, and ensure efficiency.
+                  </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Unleash Your Brand.png" alt="Icon 11">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Unleash Your Brand</strong></span>
+                <div class="description-content">
+                  Customize themes with personalized colors, reflecting your brand identity and making a lasting impression on your customers.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Boost Sales with Promotions.png" alt="Icon 12">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Boost Sales with Promotions</strong></span>
+                <div class="description-content">
+                  Entice your customers with promotions codes and offers,driving sales and loyalty.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Appointment Booking System.png" alt="Icon 13">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Appointment Booking System</strong></span>
+                <div class="description-content">
+                  Easily let your customers book an appointment with flexible Slots,Maximum Bookings per slot etc. Holiday Calendar etc..
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Order Management.png" alt="Icon 3">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Effortless Order Management</strong></span>
+                <div class="description-content">
+                  Easily manage sales, orders, payments and deliveries,simplifying your operations and saving valuable time.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/unlimited Growth.png" alt="Icon 4">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Unlimited Growth</strong></span>
+                <div class="description-content">
+                  With no limits on customers and products, we empowers your business to grow unlimited,managing your expanding customer base.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/In-Built CRM.png" alt="Icon 5">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>In-Built CRM</strong></span>
+                <div class="description-content">
+                  Our integrated and in-built CRM ensures strong customer relationships,providing valuable insights and opportunities for growth.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Serviceability at Its Best.png" alt="Icon 7">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Serviceability at Its Best</strong></span>
+                <div class="description-content">
+                  Reach more customers with our serviceable locations and apartments feature,expanding your reach and potential customer base.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Instant Communication with Live Chat and Push Notifications.png" alt="Icon 8">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Instant Communication with Live Chat and Push Notifications</strong></span>
+                <div class="description-content">
+                  Connect with your Customers in real-time through live chat,and keep them updated with important information using push notifications.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/•_Easy Subscriptions Management.png" alt="Icon 9">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Easy Subscriptions Management</strong></span>
+                <div class="description-content">
+                  Offer subscriptions for recurring orders, such as milk delivery,Water Delivery providing your customers with convenience and loyalty.
+                </div>
+              </div>
+            </div>
+            <div class="custom-item" data-aos="fade-up" data-aos-duration="1500">
+              <div class="custom-icon" data-aos="fade-up" data-aos-duration="1500">
+                <img src="images/features/Delivery Partner and Payment Gateway Integration.png" alt="Icon 10">
+              </div>
+              <div class="custom-description" data-aos="fade-up" data-aos-duration="1500">
+                <span class="feature-name"><strong>Delivery Partner and Payment Gateway Integration</strong></span>
+                <div class="description-content">
+                 Streamline your delivery processes with delivery partner(Dunzo, Uber, Etc..)integration and simplify payments with payment gateway integration, including UPI and COD.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+    
+    
+
+    <!-- Footer-Section start -->
+    <footer>
+      <div class="top_footer has_bg">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row">
+            <!-- footer link 1 -->
+            <div class="col-lg-4 col-md-6 col-12">
+              <div class="abt_side">
+                <div class="logo"> <img src="images/logo_with_bg.png" alt="image"></div>
+                <ul>
+                  <li><a href="#">help@busyness.app</a></li>
+                  <li><a href="#">+91 733 090 8172</a></li>
+                </ul>
+                <ul class="social_media">
+                  <li><a href="https://www.facebook.com/busynessapps" target="_blank"><i class="icofont-facebook"></i></a></li>
+                  <!-- <li><a href="#"><i class="icofont-twitter"></i></a></li> -->
+                  <li><a href="https://www.instagram.com/busyness.app" target="_blank"><i class="icofont-instagram"></i></a></li>
+                  <li><a href="https://youtube.com/@BusynessApp" target="_blank"><i class="icofont-youtube"></i></a></li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- footer link 2 -->
+            <div class="col-lg-3 col-md-6 col-12">
+              <div class="links">
+                <h3>Useful Links</h3>
+                <ul>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="contact">About us</a></li>
+                  <!-- <li><a href="#">Services</a></li> -->
+                  <li><a href="features">Features</a></li>
+                  <li><a href="clients">Our clients</a></li>
+                  <li><a href="pricing">Pricing</a></li>
+                  <li><a href="contact">Contact us</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- footer link 3 -->
+            <div class="col-lg-3 col-md-6 col-12">
+              <div class="links">
+                <h3>Help & Support</h3>
+                <ul>
+                  <li><a href="pricing#accordionExample">FAQs</a></li>
+                  <li><a href="contact">Support</a></li>
+                  <li><a href="#">How it works</a></li>
+                  <li><a href="terms-and-conditions.html">Terms & conditions</a></li>
+                  <li><a href="privacy-policy.html">Privacy policy</a></li>
+                  <li><a href="refund-policy.html">Refund policy</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- footer link 4 -->
+            <div class="col-lg-2 col-md-6 col-12">
+              <div class="try_out">
+                <h3>Let’s Try Out</h3>
+                <ul class="app_btn">
+                  <li>
+                    <a href="https://apps.apple.com/us/app/busyness-app/id1592817143" target="_blank">
+                      <img src="images/appstore_blue.png" alt="image">
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://play.google.com/store/apps/details?id=busyness.app" target="_blank">
+                      <img src="images/googleplay_blue.png" alt="image">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- row end -->
+        </div>
+        <!-- container end -->
+      </div>
+
+      <!-- last footer -->
+      <div class="bottom_footer">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row">
+            <div class="col-md-6">
+              <p>© Copyrights 2021. All rights reserved.</p>
+            </div>
+            <p class="developer_text">Design & developed by <a href="#"
+              target="blank">Bizsaclabs Softtech Private Limited</a></p>
+            </div>
+          </div>
+          <!-- row end -->
+        </div>
+        <!-- container end -->
+      </div>
+
+      <!-- go top button -->
+      <div class="go_top">
+        <span><img src="images/go_top.png" alt="image"></span>
+      </div>
+    </footer>
+    <!-- Footer-Section end -->
+    
+  </div>
+  <!-- Page-wrapper-End -->
+
+  <!-- Jquery-js-Link -->
+  <script src="js/jquery.js"></script>
+  <!-- owl-js-Link -->
+  <script src="js/owl.carousel.min.js"></script>
+  <!-- bootstrap-js-Link -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- aos-js-Link -->
+  <script src="js/aos.js"></script>
+  <!-- main-js-Link -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
