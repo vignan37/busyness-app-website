@@ -483,6 +483,12 @@ function redirectToURL() {
   window.location.href = redirectTo;
 }
 
+function redirectToURLHelp() {
+  // Replace "your-url-here" with the URL you want to redirect to
+  const redirectTo = "help";
+  window.location.href = redirectTo;
+}
+
 function redirectToURLFeatures() {
   // Replace "your-url-here" with the URL you want to redirect to
   const redirectTo = "features";
