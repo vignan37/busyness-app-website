@@ -315,9 +315,9 @@
               <div class="links">
                 <h3>Help & Support</h3>
                 <ul>
-                  <li><a href="pricing#accordionExample">FAQs</a></li>
+                  <li><a href="help">FAQs</a></li>
                   <li><a href="contact">Support</a></li>
-                  <li><a href="#">How it works</a></li>
+                  <li><a href="help">Tutorials</a></li>
                   <li><a href="terms-and-conditions.html">Terms & conditions</a></li>
                   <li><a href="privacy-policy.html">Privacy policy</a></li>
                   <li><a href="refund-policy.html">Refund policy</a></li>
