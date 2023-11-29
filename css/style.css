@@ -251,6 +251,35 @@ button:focus,
     color: var(--purple);
 }
 
+/* Added this code as the button functionality was not working */
+.puprple_btn_custom{
+    background-color: var(--purple);
+    color: var(--text-white);
+    border-radius: 50px;
+    padding: 10px 40px;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    font-weight: 500;
+}
+.puprple_btn_custom:hover::before {
+    width: 100%;
+}
+.puprple_btn_custom:hover {
+    color: var(--purple);
+}
+.puprple_btn_custom::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0%;
+    height: 100%;
+    background-color: var(--bg-white);
+    border-radius: 50px;
+    transition: .6s all;
+    z-index: -1;
+}
 /* white button */
 .white_btn {
     padding: 10px 45px;
