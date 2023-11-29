@@ -147,326 +147,103 @@
 
     <!-- Pricing-Section -->
     <section class="row_am pricing_section" id="pricing">
-      <!-- container start -->
       <div class="container">
         <div class="section_title" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300">
-          <!-- h2 -->
           <h2>Best & simple <span>pricing</span></h2>
-          <!-- p -->
-          <p>Get your own white labelled app for your business starting as low as ₹28/day.</p>
+          <p>Get your own white labelled app for your business starting as low as ₹28/day.</p>
         </div>
-        <!-- toggle button -->
-        <!-- <div class="toggle_block" data-aos="fade-up" data-aos-duration="1500">
-          <span class="month active">Monthly</span>
+        <div class="toggle_block" data-aos="fade-up" data-aos-duration="1500">
+          <!-- <span class="month active">Monthly</span> -->
+          <span class="years active">Yearly</span>
           <div class="tog_block">
             <span class="tog_btn"></span>
           </div>
-          <span class="years">Yearly</span>
-          <span class="offer">50% off</span>
-        </div> -->
-
-        <!-- pricing box  monthly start -->
-        <div class="pricing_pannel monthly_plan active" data-aos="fade-up" data-aos-duration="1500">
-          <!-- row start -->
-          <div class="row">
-            <!-- pricing box 1 -->
-            <div class="col-md-4 custom-pricing-box">
-               <div class="pricing_block">
-                <div class="icon">
-                  <img src="images/standard.png" alt="image">
-                </div>
-                <div class="pkg_name">
-                  <h3>STARTER</h3>
-                  <span>Ideal for Initial Businesses</span>
-                </div>
-                <span class="discounted-price" data-price="9999"></span>
-                <ul class="benifits">
-                  <li>
-                    <p>Add Unlimited Products</p>
-                  </li>
-                  <li>
-                    <p>Sell to Unlimited Customers</p>
-                  </li>
-                  <li>
-                    <p>Deliver Unlimited Orders</p>
-                  </li>
-                  <li>
-                    <p>Inbuilt CRM Growth Features</p>
-                  </li>
-                  <li>
-                    <p>Admin App for Owner</p>
-                  </li>
-                  <li>
-                    <p>Payment Gateway Integration</p>
-                  </li>
-                  <li>
-                    <p>Delivery Partner Integration</p>
-                  </li>
-                  <li>
-                    <p>Android App with Brand Logo</p>
-                  </li>
-                  <li>
-                    <p>IOS App with Your Logo</p>
-                  </li>
-                  <li>
-                    <p>Website for your Business</p>
-                  </li>
-                  <li>
-                    <p>Upto 4 Employees access</p>
-                  </li>
-                  <li>
-                    <p>Priority Support</p>
-                  </li>
-                </ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
-              </div> 
-            </div>
-
-            <!-- pricing box 2 -->
-            <div class="col-md-4 custom-pricing-box">
-              <div class="pricing_block highlited_block">
-                <div class="icon">
-                  <img src="images/unlimited.png" alt="image">
-                </div>
-                <div class="pkg_name">
-                  <h3>PREMIUM</h3>
-                  <span>Perfect for Medium-sized Businesses</span>
-                </div>
-                <div class="price-container">
-                  <!-- <span class="original-price" data-price="19999"></span> -->
-                  <span class="discounted-price" data-price="19999"></span>
-                </div>                                      
-                <ul class="benifits">
-                  <li>
-                    <p>Add Unlimited Products</p>
-                  </li>
-                  <li>
-                    <p>Sell to Unlimited Customers</p>
-                  </li>
-                  <li>
-                    <p>Deliver Unlimited Orders</p>
-                  </li>
-                  <li>
-                    <p>Inbuilt CRM Growth Features</p>
-                  </li>
-                  <li>
-                    <p>Admin App for Owner</p>
-                  </li>
-                  <li>
-                    <p>Payment Gateway Integration</p>
-                  </li>
-                  <li>
-                    <p>Delivery Partner Integration</p>
-                  </li>
-                  <li>
-                    <p>Android App with Brand Logo</p>
-                  </li>
-                  <li>
-                    <p>IOS App with Your Logo</p>
-                  </li>
-                  <li>
-                    <p>Website for your Business</p>
-                  </li>
-                  <li>
-                    <p>Upto 10 Employees access</p>
-                  </li>
-                  <li>
-                    <p>Priority Support</p>
-                  </li>
-                </ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
-              </div>
-            </div>
-
-            <!-- pricing box 3 -->
-            
-            <!-- 
-            <div class="col-md-4">
-                
-               <div class="pricing_block">
-                <div class="icon">
-                  <img src="images/unlimited.png" alt="image">
-                </div>
-                <div class="pkg_name">
-                  <h3>PRO</h3>
-                  <span>Tailored for Large Businesses</span>
-                </div>
-                <span class="discounted-price" data-price="29999"></span>
-                <ul class="benifits">
-                  <li>
-                    <p>Add Unlimited Products</p>
-                  </li>
-                  <li>
-                    <p>Sell to Unlimited Customers</p>
-                  </li>
-                  <li>
-                    <p>Deliver Unlimited Orders</p>
-                  </li>
-                  <li>
-                    <p>Inbuilt CRM Growth Features</p>
-                  </li>
-                  <li>
-                    <p>Admin App for Owner</p>
-                  </li>
-                  <li>
-                    <p>Payment Gateway Integration</p>
-                  </li>
-                  <li>
-                    <p>Delivery Partner Integration</p>
-                  </li>
-                  <li>
-                    <p>Android App with Brand Logo</p>
-                  </li>
-                  <li>
-                    <p>IOS App with Your Logo</p>
-                  </li>
-                  <li>
-                    <p>Website for your Business</p>
-                  </li>
-                  <li>
-                    <p>Upto 10 Employees access</p>
-                  </li>
-                  <li>
-                    <p>Custom Domain</p>
-                  </li>
-                  <li>
-                    <p>Own Google Play Console</p>
-                  </li>
-                  <li>
-                    <p>Own App Store Account</p>
-                  </li>
-                  <li>
-                    <p>Priority Support</p>
-                  </li>
-                </ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
-              </div> 
-            </div>
-          </div> 
-        
+          <!-- <span class="years">Yearly</span> -->
+          <span class="month">Monthly</span>
+          <!-- <span class="offer">50% off</span> -->
         </div>
-      -->
-        <!-- pricing box monthly end -->
-
-        <!-- pricing box yearly start -->
-        <div class="pricing_pannel yearly_plan">
+        <div class="pricing_pannel yearly_plan active" data-aos="fade-up" data-aos-duration="1500">
           <div class="row">
-
-            <!-- pricing box 1 -->
-            <div class="col-md-4">
-              <!-- <div class="pricing_block">
+            <div class="col-md-4 custom-pricing-box">
+              <!-- ... (yearly pricing box 1 content) ... -->
+              <div class="pricing_block">
                 <div class="icon">
                   <img src="images/standard.png" alt="image">
                 </div>
-                <div class="pkg_name">
-                  <h3>Standard</h3>
-                  <span>For the basics</span>
+                <div class="pkg_name_3">
+                  <h3></h3>
+                  <span></span>
                 </div>
-                <span class="price">$150</span>
-                <ul class="benifits">
-                  <li>
-                    <p>Up to 10 Website</p>
-                  </li>
-                  <li>
-                    <p>100 GB disk space</p>
-                  </li>
-                  <li>
-                    <p>25 Customize sub pages</p>
-                  </li>
-                  <li>
-                    <p>4 Domains access</p>
-                  </li>
-                  <li>
-                    <p>Support on request</p>
-                  </li>
-                </ul>
-                <a href="#" class="btn white_btn">BUY NOW</a>
-              </div> -->
+                <div class="price-container-3">
+                  <span class="original-price-3"></span>
+                  <span class="discounted-price-3"></span>
+                </div>
+                <ul class="benifits-3"></ul>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+              </div> 
             </div>
-
-            <!-- pricing box 2 -->
-            
-            <div class="col-md-4">
-              <!-- 
+            <div class="col-md-4 custom-pricing-box">
+              <!-- ... (yearly pricing box 1 content) ... -->
               <div class="pricing_block highlited_block">
                 <div class="icon">
                   <img src="images/unlimited.png" alt="image">
                 </div>
-                <div class="pkg_name">
-                  <h3>Unlimited</h3>
-                  <span>For the professionals</span>
+                <div class="pkg_name_4">
+                  <h3></h3>
+                  <span></span>
                 </div>
-                <div class="price-container">
-                  <span class="original-price" data-price="19999"></span>
-                  <span class="discounted-price" data-price="9999"></span>
-                </div>                                      
-                <ul class="benifits">
-                  <li>
-                    <p>Unlimited Products</p>
-                  </li>
-                  <li>
-                    <p>Unlimited Customers</p>
-                  </li>
-                  <li>
-                    <p>Unlimited Orders</p>
-                  </li>
-                  <li>
-                    <p>Android & iOS app for your Business/Customers</p>
-                  </li>
-                  <li>
-                    <p>Website for your Business/Customer</p>
-                  </li>
-                  <li>
-                    <p>Upto 10 employees access</p>
-                  </li>
-                  <li>
-                    <p>Priority Support</p>
-                  </li>
-                </ul>
-                <a href="#" class="btn white_btn">BUY NOW</a>
-              </div> -->
+                <div class="price-container-4">
+                  <span class="original-price-4"></span>
+                  <span class="discounted-price-4"></span>
+                </div>
+                <ul class="benifits-4"></ul>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+              </div> 
             </div>
-
-            <!-- pricing box 3 -->
-            <div class="col-md-4">
-              <!-- <div class="pricing_block">
-                <div class="icon">
-                  <img src="images/premium.png" alt="image">
-                </div>
-                <div class="pkg_name">
-                  <h3>Premium</h3>
-                  <span>For small team</span>
-                </div>
-                <span class="price">$550</span>
-                <ul class="benifits">
-                  <li>
-                    <p>Up to 20 Website</p>
-                  </li>
-                  <li>
-                    <p>200 GB disk space</p>
-                  </li>
-                  <li>
-                    <p>25 Customize sub pages</p>
-                  </li>
-                  <li>
-                    <p>8 Domains access</p>
-                  </li>
-                  <li>
-                    <p>24/7 Customer support</p>
-                  </li>
-                </ul>
-                <a href="#" class="btn white_btn">BUY NOW</a>
-              </div> -->
-            </div>
-
+            <!-- Add more yearly pricing boxes if needed -->
           </div>
         </div>
-        <!-- pricing box yearly end -->
-
-        <!-- <p class="contact_text" data-aos="fade-up" data-aos-duration="1500">Not sure what to choose ? <a
-            href="#">contact us</a> for custom packages</p> -->
+        <div class="pricing_pannel monthly_plan" data-aos="fade-up" data-aos-duration="1500">
+          <div class="row">
+            <div class="col-md-4 custom-pricing-box">
+              <!-- ... (monthly pricing box 1 content) ... -->
+              <div class="pricing_block">
+                <div class="icon">
+                  <img src="images/standard.png" alt="image">
+                </div>
+                <div class="pkg_name_1">
+                  <h3></h3>
+                  <span></span>
+                </div>
+                <div class="price-container-1">
+                  <span class="original-price-1"></span>
+                  <span class="discounted-price-1"></span>
+                </div>
+                <ul class="benifits-1"></ul>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+              </div> 
+            </div>
+            <div class="col-md-4 custom-pricing-box">
+              <!-- ... (monthly pricing box 2 content) ... -->
+              <div class="pricing_block highlited_block">
+                <div class="icon">
+                  <img src="images/unlimited.png" alt="image">
+                </div>
+                <div class="pkg_name_2">
+                  <h3></h3>
+                  <span></span>
+                </div>
+                <div class="price-container-2">
+                  <span class="original-price-2"></span>
+                  <span class="discounted-price-2"></span>
+                </div>
+                <ul class="benifits-2"></ul>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+              </div> 
+            </div>
+          </div>
+        </div>
       </div>
-      <!-- container start end -->
     </section>
     <!-- Pricing-Section end -->
   
@@ -744,6 +521,70 @@
   <script src="js/aos.js"></script>
   <!-- main-js-Link -->
   <script src="js/main.js"></script>
+  <script>
+    getSubscriptionDetailsStarterApi().then(data => {
+      const packageData = data.data[0];
+      document.querySelector(".pkg_name_1 h3").textContent = packageData.packageName;
+      // document.querySelector(".original-price").textContent = `${packageData.originalAnnualRate}`;
+      document.querySelector(".discounted-price-1").textContent = `${packageData.monthlyRate}`;
+      const benefitsList = document.querySelector(".benifits-1");
+      packageData.features.forEach(feature => {
+        const li = document.createElement("li");
+        const p = document.createElement("p");
+        p.textContent = feature;
+        li.appendChild(p);
+        benefitsList.appendChild(li);
+      });
+    });
+  </script>
+  <script>
+    getSubscriptionDetailsPremiumApi().then(data => {
+      const packageData = data.data[0];
+      document.querySelector(".pkg_name_2 h3").textContent = packageData.packageName;
+      // document.querySelector(".original-price").textContent = `${packageData.originalAnnualRate}`;
+      document.querySelector(".discounted-price-2").textContent = `${packageData.monthlyRate}`;
+      const benefitsList = document.querySelector(".benifits-2");
+      packageData.features.forEach(feature => {
+        const li = document.createElement("li");
+        const p = document.createElement("p");
+        p.textContent = feature;
+        li.appendChild(p);
+        benefitsList.appendChild(li);
+      });
+    });
+  </script>
+  <script>
+    getSubscriptionDetailsYearlyStarter().then(data => {
+      const packageData = data.data[0];
+      document.querySelector(".pkg_name_3 h3").textContent = packageData.packageName;
+      // document.querySelector(".original-price").textContent = `${packageData.originalAnnualRate}`;
+      document.querySelector(".discounted-price-3").textContent = `${packageData.annualRate}`;
+      const benefitsList = document.querySelector(".benifits-3");
+      packageData.features.forEach(feature => {
+        const li = document.createElement("li");
+        const p = document.createElement("p");
+        p.textContent = feature;
+        li.appendChild(p);
+        benefitsList.appendChild(li);
+      });
+    });
+  </script>
+  <script>
+    getSubscriptionDetailsYearlyPremium().then(data => {
+      const packageData = data.data[0];
+      document.querySelector(".pkg_name_4 h3").textContent = packageData.packageName;
+      // document.querySelector(".original-price").textContent = `${packageData.originalAnnualRate}`;
+      document.querySelector(".discounted-price-4").textContent = `${packageData.annualRate}`;
+      const benefitsList = document.querySelector(".benifits-4");
+      packageData.features.forEach(feature => {
+        const li = document.createElement("li");
+        const p = document.createElement("p");
+        p.textContent = feature;
+        li.appendChild(p);
+        benefitsList.appendChild(li);
+      });
+    });
+  </script>
 
 </body>
 

@@ -2154,6 +2154,132 @@ footer .bottom_footer .developer_text a {
     text-decoration: underline;
 }
 
+
+footer .top_footer1 {
+    background-color: #DE4749;
+    padding: 25px 0 5px 0;
+    position: relative;
+    overflow: hidden;
+}
+
+footer .top_footer1.has_bg {
+    background-image: url(../images/footer_bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* footer logo */
+footer .top_footer1 .logo {
+    margin-bottom: 40px;
+}
+
+footer .top_footer1 .logo img {
+    width: 150px;
+}
+
+footer .top_footer1 .abt_side li {
+    padding: 0 0 10px 0;
+}
+
+/* footer social media icon */
+footer .top_footer1 .social_media {
+    display: flex;
+    margin-top: 20px;
+}
+
+/* footer link list */
+footer .top_footer1 .social_media li a {
+    display: block;
+    width: 37px;
+    height: 37px;
+    text-align: center;
+    line-height: 37px;
+    font-size: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50px;
+    margin-right: 10px;
+    transition: .4s all;
+}
+
+footer .top_footer1 .social_media li a:hover {
+    background-color: var(--bg-white);
+    color: var(--purple);
+}
+
+footer .top_footer1 .try_out {
+    margin-left: -20px;
+}
+
+footer .app_btn li a {
+    display: block;
+    padding: 12px 10px;
+    background-color: var(--bg-white);
+    border: 2px solid var(--purple);
+    position: relative;
+    border-radius: 12px;
+    transition: .4s all;
+    width: 175px;
+    text-align: center;
+}
+
+footer .app_btn li a:hover {
+    -webkit-box-shadow: 1px 4px 8px -2px rgba(0,0,0,0.5);
+    -moz-box-shadow: 1px 4px 8px -2px rgba(0,0,0,0.5);
+    box-shadow: 1px 4px 8px -2px rgba(0,0,0,0.5);
+}
+
+footer .app_btn li:last-child {
+    margin-top: 20px;
+}
+
+footer .bottom_footer1 {
+    background-color: var(--bg-purple);
+}
+
+/* footer heading and text colors variable */
+footer h2,
+footer h3,
+footer p,
+footer a {
+    color: var(--text-white);
+}
+
+footer a:hover {
+    color: var(--text-white);
+}
+
+/* footer heading h3 */
+footer h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    padding-top: 10px;
+}
+
+footer .links ul li a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* footer last */
+footer .bottom_footer1 {
+    padding: 10px 0;
+}
+
+footer .bottom_footer1 p {
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+footer .bottom_footer1 .developer_text {
+    text-align: right;
+}
+
+footer .bottom_footer1 .developer_text a {
+    text-decoration: underline;
+}
+
 /* footer go top button */
 .go_top {
     position: fixed;
