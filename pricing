@@ -140,7 +140,7 @@
                   <span class="discounted-price-3"></span>
                 </div>
                 <ul class="benifits-3"></ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn" style="margin-top:3% ;">BUY NOW</a>
               </div> 
             </div>
             <div class="col-md-4 custom-pricing-box">
@@ -158,7 +158,7 @@
                   <span class="discounted-price-4"></span>
                 </div>
                 <ul class="benifits-4"></ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn" style="margin-top:3% ;">BUY NOW</a>
               </div> 
             </div>
             <!-- Add more yearly pricing boxes if needed -->
@@ -181,7 +181,7 @@
                   <span class="discounted-price-1"></span>
                 </div>
                 <ul class="benifits-1"></ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn" style="margin-top:3% ;">BUY NOW</a>
               </div> 
             </div>
             <div class="col-md-4 custom-pricing-box">
@@ -199,7 +199,7 @@
                   <span class="discounted-price-2"></span>
                 </div>
                 <ul class="benifits-2"></ul>
-                <a href="https://busyness.app/freeTrail" class="btn white_btn">BUY NOW</a>
+                <a href="https://busyness.app/freeTrail" class="btn white_btn" style="margin-top:3% ;">BUY NOW</a>
               </div> 
             </div>
           </div>
