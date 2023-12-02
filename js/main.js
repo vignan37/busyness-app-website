@@ -410,8 +410,9 @@ async function generateCards() {
       if (!client.webUrl) {
         return;
       }
-      const logoDiv = document.createElement("div");
-      logoDiv.classList.add("item");
+
+      const cardDiv = document.createElement("div"); // Create a div for the entire card
+      cardDiv.classList.add("item");
 
       const logoImg = document.createElement("img");
       logoImg.classList.add("item-image"); // Add the class for image styling
@@ -447,12 +448,20 @@ async function generateCards() {
         optionsContainer.appendChild(iosStoreLink);
       }
 
-      logoDiv.appendChild(logoImg);
-      logoDiv.appendChild(businessName);
-      logoDiv.appendChild(optionsContainer);
-      slider.appendChild(logoDiv);
+      // Event listener to handle the card click
+      cardDiv.addEventListener("click", () => redirectToURLFreeTrail(client));
+
+      cardDiv.appendChild(logoImg);
+      cardDiv.appendChild(businessName);
+      cardDiv.appendChild(optionsContainer);
+      slider.appendChild(cardDiv);
     });
   }
+}
+function redirectToURLFreeTrail(client) {
+  console.log('Clicked on card:', client.businessName);
+  const redirectTo = "freeTrail";
+  window.location.href = redirectTo;
 }
 
 function initCarousel() {
@@ -488,10 +497,6 @@ function redirectToURLHelp() {
   window.location.href = redirectTo;
 }
 
-function redirectToURLFreeTrail(){
-  const redirectTo = "freeTrail";
-  window.location.href = redirectTo;
-}
 
 function redirectToURLFeatures() {
   const redirectTo = "features";
