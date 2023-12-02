@@ -144,7 +144,7 @@
     </div>  
     
 
-    <!-- Contact Us Section Start -->
+    <!-- Form Section Start -->
     <section class="contact_page_section">
       <div class="container">
           <div class="contact_inner">
@@ -247,17 +247,67 @@
           </div>
       </div>
     </section>
-    <!-- Contact Us Section End -->
+    <!-- Form Section End -->
+
+    <!-- Contact section start -->
+
+    <section class="contact_page_section">
+      <div class="contact_inner_contact_details">
+          <div class="row">
+            <div class="col-lg-6">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19726.613922237153!2d78.35686391406654!3d17.42428361410885!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb938651209985%3A0x9e4cf08c4d755030!2sGolf%20Edge%20Residence%20Rd%2C%20Madhava%20Reddy%20Colony%2C%20Gachibowli%2C%20Hyderabad%2C%20Telangana%20500032!5e0!3m2!1sen!2sin!4v1691652471360!5m2!1sen!2sin" width="100%" height="510" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+              <div class="col-lg-6">
+                  <div class="section_title">
+                    <h2>Have any <span>question?</span></h2>
+                    <p>Contact us today.<a href="#"></a></p>
+                    <!-- <p>If you have any question about our product, service, payment or company, Visit our <a href="#">FAQs page.</a></p> -->
+                  </div>
+                  <!-- <a href="pricing#accordionExample" class="btn puprple_btn">READ FAQ</a> -->
+                  <ul class="contact_info_list">
+                    <li style="padding: 3%;">
+                      <span class="img">
+                        <img src="images/mail_icon.png" alt="image">
+                      </span>
+                      <span class="text" style="margin-left: 2%;">
+                        <span>Email Us : </span>
+                        <a href="mailto:example@gmail.com">help@busyness.app</a>
+                      </span>
+                    </li>
+                    <li style="padding: 3%;">
+                      <span class="img">
+                        <img src="images/call_icon.png" alt="image">
+                      </span>
+                      <span class="text" style="margin-left: 2%;">
+                        <span>Call Us : </span>
+                        <a href="tel:+91 733 090 8172">+91 733 090 8172</a>
+                      </span>
+                    </li>
+                    <li style="padding: 3%;">
+                      <span class="img">
+                        <img src="images/location_icon.png" alt="image">
+                      </span>
+                      <span class="text" style="margin-left: 2%; max-width: 500px; display: inline-block;">
+                        <span>Visit Us : Bizsaclabs Softtech Private Limited,
+                          A1907 Golf Edge, Nanakramguda,
+                          Hyderabad, TS, India, 500081</span>
+                        </span>
+                    </li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+    </section>
 
 
     <!-- Map Section Start -->
-    <section class="row_am map_section">
+    <!-- <section class="row_am map_section">
       <div class="container">
           <div class="map_inner">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19726.613922237153!2d78.35686391406654!3d17.42428361410885!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb938651209985%3A0x9e4cf08c4d755030!2sGolf%20Edge%20Residence%20Rd%2C%20Madhava%20Reddy%20Colony%2C%20Gachibowli%2C%20Hyderabad%2C%20Telangana%20500032!5e0!3m2!1sen!2sin!4v1691652471360!5m2!1sen!2sin" width="100%" height="510" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
       </div>
-    </section>
+    </section> -->
     <!-- Map Section End -->
 
 

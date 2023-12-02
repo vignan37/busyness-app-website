@@ -3619,6 +3619,22 @@ header.fix_style.white_header {
 
 /* Contact Page Css Start */
 
+contact_inner_contact_details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    margin-top: 0px;
+}
+
+.contact_inner_contact_details{
+    margin-top: 50px;
+}
+
+.col-lg-6{ 
+    padding: 50px;
+}
+
 .contact_page_section .contact_inner {
     display: flex;
     justify-content: space-between;
